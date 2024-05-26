@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola 👋, Soy Raymond García
 
-<!--
-**raystark04/raystark04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Explorando el mundo del desarrollo web 🌐
 
-Here are some ideas to get you started:
+🌱 Actualmente estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 Conoce sobre mis experiencias (Cursos: CS50x.ni - WEB50x.ni)
+
+💻 Tecnologías:
+
+- C#
+- C++
+- JavaScript
+- CSS3
+- HTML5
+- Python
+- Render
+- GitHub Pages
+- Flask
+- PostgreSQL
+- Microsoft SQL Server
+- SQLite
+- Adobe Photoshop
+- Figma
+- Power BI
+
+📊 Estadísticas de GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raystark4)
+
+🌐 Redes Sociales:
+
+- [Instagram](https://www.instagram.com/raymond_garciaxd/)
