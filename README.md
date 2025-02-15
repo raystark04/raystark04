@@ -20,7 +20,18 @@
 
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raystark04&show_icons=true&locale=en&layout=compact" alt="raystark04" /></p>
-![raystark04's Stats](https://github-readme-stats.vercel.app/api?username=raystark04&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=raystark04&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=raystark04&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=raystark04&show_icons=true" />
+</picture>
+
 
 
 <br>
