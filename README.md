@@ -30,7 +30,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=raystark04&show_icons=true" />
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raystark04&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raystark04)](https://github.com/raystark04/github-readme-stats)
+<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=raystark04&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=raystark04)](https://github.com/raystark04/github-readme-stats)" />
 
 
 
