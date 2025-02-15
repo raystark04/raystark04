@@ -19,7 +19,6 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raystark04&show_icons=true&locale=en&layout=compact" alt="raystark04" /></p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=raystark04&show_icons=true&theme=dark"
@@ -31,6 +30,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=raystark04&show_icons=true" />
 </picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raystark04&layout=compact"> />
+
 
 
 
