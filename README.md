@@ -19,7 +19,7 @@
 
 
 # 📊 GitHub Stats:
-
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raystark04&layout=compact)
 
 
 <br>
